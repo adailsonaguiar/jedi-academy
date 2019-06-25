@@ -1,5 +1,5 @@
 <div class="todo" *ngIf="student">
-    Student: {{student?.name}}
+    Student: <a href="#" (click)="clicked()">{{student?.name}}</a>
     <div *ngIf="student?.isJedi">
         Jedi Temple: {{student?.temple}}
     </div>
