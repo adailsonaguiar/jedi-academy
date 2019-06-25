@@ -1,0 +1,24 @@
+.header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 10;
+    background: rgb(28, 32, 32);
+    text-align: center;
+    color: white;
+}
+
+div h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 255, 98);
+    font-size: 25px;
+}
+
+div nav a{
+    background: rgb(81, 255, 0);
+}   
+
+div nav {
+    background: rgb(192, 192, 192);
+}   
